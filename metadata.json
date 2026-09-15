@@ -1,0 +1,6 @@
+{
+  "name": "Dukan POS & Khata",
+  "description": "Complete Shop POS, Billing, Inventory, Customer Ledger, Payment & Accounting Management for retail shops in Pakistan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
